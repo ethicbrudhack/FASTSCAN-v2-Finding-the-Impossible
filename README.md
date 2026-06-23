@@ -11,7 +11,7 @@ Built with ❤️ for the crypto research community.
 | Bit Range | Keys Found | Difficulty Level | Status |
 |-----------|------------|------------------|--------|
 | **0 – 30** | ✅ YES | 🟢 **EASY** | Multiple addresses with transaction history |
-| **32 – 50** | ✅ YES | 🟡 **MEDIUM** | Active addresses found (including 15VjRaDX9zpbA8LVnbrCAFzrVzN7ixHNsC) |
+| **32 – 50** | ✅ YES | 🟡 **MEDIUM** | Active addresses found (including 1LyXtqdWnaCirzq7X7FiT1nPdQUfW1ay4H) |
 | **70 – 160** | ✅ YES | 🔴 **HARD** | Puzzle addresses found (1JthRVV6YyGaDLrf75qfcGQkK3Vy3wCkza + SegWit) |
 | **250 – 256** | ✅ YES | ⚫ **EXTREME** | **IMPOSSIBLE RANGE – Addresses found!** (1NChfewU45oy7Dgn51HwkBFSixaTnyakfj) |
 
